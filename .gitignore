@@ -4,7 +4,7 @@
 # env
 .env
 
-# Node / Nest
+# Node / Nes
 node_modules/
 dist/
 npm-debug.log
