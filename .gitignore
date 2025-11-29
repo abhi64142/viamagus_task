@@ -1,4 +1,11 @@
-# compiled output
-/dist
-/node_modules
-/env
+# macOS
+.DS_Store
+
+# env
+.env
+
+# Node / Nest
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
